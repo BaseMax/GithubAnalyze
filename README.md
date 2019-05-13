@@ -8,3 +8,6 @@ Analyze and use the Github API with some tiny example.
 $ pip install PyGithub
 ```
 
+## Documentation
+
+More information can be found on the [PyGitHub documentation](https://pygithub.readthedocs.io/en/latest/introduction.html) site.
