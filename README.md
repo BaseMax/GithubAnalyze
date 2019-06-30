@@ -11,3 +11,7 @@ $ pip install PyGithub
 ## Documentation
 
 More information can be found on the [PyGitHub documentation](https://pygithub.readthedocs.io/en/latest/introduction.html) site.
+
+### Limit
+
+https://developer.github.com/v3/#rate-limiting
